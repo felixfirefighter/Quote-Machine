@@ -1,0 +1,53 @@
+body{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.btn.btn-primary{
+    background-color:#FF6F00;
+}
+
+#background{
+    background-color: #FF6F00;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.quote-container{
+    margin-top: 10%;
+    width: 600px;
+    height:auto;
+    background-color: white;
+    padding: 10px 50px 40px 50px;
+}
+
+.quote{
+    color:#FF6F00;
+    text-align: center;
+    word-wrap: break-word;
+    padding: 10px;
+}
+
+.quote-author{
+    float:right;
+    padding: 10px;
+}
+
+#new-quote-button{
+    float: right;
+}
+
+#creator{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+a{
+    text-underline: none;
+    color: #ffffff;
+}
