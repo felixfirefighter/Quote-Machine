@@ -20,7 +20,6 @@ body{
 .quote-container{
     margin-top: 10%;
     width: 600px;
-    height:auto;
     background-color: white;
     padding: 10px 50px 40px 50px;
 }
@@ -47,7 +46,7 @@ body{
     margin: 10px;
 }
 
-a{
-    text-underline: none;
+a, a:hover{
+    text-decoration: none;
     color: #ffffff;
 }
