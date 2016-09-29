@@ -1,7 +1,6 @@
 body{
     width: 100%;
     height: 100%;
-    position: relative;
 }
 
 .btn.btn-primary{
@@ -12,9 +11,6 @@ body{
     background-color: #FF6F00;
     width: 100%;
     height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
 }
 
 .quote-container{
